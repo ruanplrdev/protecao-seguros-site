@@ -1,71 +1,54 @@
-🛡️ Proteção Seguros
-Seu corretor de confiança para seguros de vida, automóvel, residência e muito mais.
+# Proteção Seguros | Seu Corretor de Confiança
 
-Este projeto é uma landing page moderna e responsiva desenvolvida com HTML, Tailwind CSS e Font Awesome, criada para uma corretora de seguros fictícia chamada Proteção Seguros. A proposta é oferecer uma experiência clara, elegante e funcional para usuários que desejam contratar seguros com segurança e praticidade.
+![Proteção Seguros](https://images.unsplash.com/photo-1600880292203-757bb62b4baf?ixlib=rb-4.0.3&auto=format&fit=crop&w=2070&q=80)
 
-🚀 Tecnologias Utilizadas
-HTML5
+Website institucional desenvolvido para a **Proteção Seguros**, uma corretora especializada em oferecer seguros personalizados para automóveis, residências, saúde, vida, empresas e viagens. A proposta do site é proporcionar uma experiência moderna, responsiva e confiável para clientes que desejam solicitar cotações e conhecer mais sobre os serviços da empresa.
 
-Tailwind CSS 3
+## ✨ Funcionalidades
 
-Font Awesome 6
+- Página inicial com chamada para ação (CTA)
+- Formulário flutuante de cotação com animação
+- Seção com os principais **serviços oferecidos**
+- Seção "Sobre Nós" com destaque para diferenciais da empresa
+- Parcerias com seguradoras (trust badges)
+- Navegação responsiva com menu mobile
+- Estilo visual moderno com **Tailwind CSS** e ícones do Font Awesome
 
-JavaScript (básico)
+## 🧪 Tecnologias utilizadas
 
-✨ Funcionalidades
-Design 100% responsivo
+- **HTML5** e **CSS3**
+- [Tailwind CSS](https://tailwindcss.com/)
+- [Font Awesome](https://fontawesome.com/)
+- JavaScript (básico para animações e responsividade)
 
-Animações suaves com efeitos flutuantes
+## 💻 Preview
 
-Navegação fluida entre seções com menu mobile
+Você pode visualizar o projeto hospedado via GitHub Pages ou abrir o arquivo `index.html` localmente no navegador.
 
-Formulário para solicitação de cotação
+📌 Link do projeto online: _[adicione aqui o link se estiver publicado]_
 
-Seção de serviços detalhada
+## 📂 Estrutura do projeto
 
-Depoimentos e apresentação institucional
+´´´
+/protecao-seguros/
+│
+├── index.html # Página principal
+├── README.md # Este arquivo
+└── assets/ # (opcional) pasta para imagens e ícones
+´´´
 
-Parcerias com seguradoras destacadas
+## 🎯 Objetivo
 
-📸 Preview
-<!-- você pode colocar um print da página aqui se quiser -->
+Este projeto foi criado como parte do meu portfólio para demonstrar minhas habilidades em desenvolvimento web estático com foco em design responsivo e boas práticas de UI/UX para negócios locais.
 
-📁 Estrutura do Projeto
-markdown
-Copiar
-Editar
-📦 proteção-seguros
- ┣ 📄 index.html
- ┣ 📄 README.md
- ┗ 📁 assets/
-     ┗ 📄 imagens, ícones, etc.
-🧠 Aprendizados
-Neste projeto, aprofundei meus conhecimentos em:
+## 📬 Contato
 
-Criação de páginas institucionais com foco em performance visual
+Se você gostou do projeto ou quer conversar sobre desenvolvimento web, entre em contato!
 
-Uso de Tailwind para estilização rápida e organizada
+- 💼 [LinkedIn](https://www.linkedin.com/in/seu-usuario/)
+- 📧 seu-email@email.com
+- 🌐 [Portfólio](https://seu-portfolio.com)
 
-Boas práticas de UX/UI em sites de apresentação comercial
+---
 
-📌 Como Usar
-Você pode clonar este repositório e abrir o index.html no seu navegador:
-
-bash
-Copiar
-Editar
-git clone https://github.com/seu-usuario/protecao-seguros.git
-cd protecao-seguros
-Abra com seu navegador ou use uma extensão como o Live Server no VSCode.
-
-🧩 Melhorias Futuras
-Integração com backend para envio de formulários
-
-Seção de blog ou artigos informativos
-
-Área de login para clientes
-
-Painel de administração para gerenciamento de leads
-
-📞 Contato
-Criado por Ruan Pissinati — LinkedIn • Portfólio • Email
+**Desenvolvido com 💙 por [Seu Nome]**
